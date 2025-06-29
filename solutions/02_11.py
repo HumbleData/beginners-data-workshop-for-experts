@@ -1,0 +1,1 @@
+df.iloc[-3:]['due_date']

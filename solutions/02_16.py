@@ -1,0 +1,1 @@
+df['branch_id'].unique()

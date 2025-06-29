@@ -1,0 +1,1 @@
+df[df['status'].isnull()].index

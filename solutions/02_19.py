@@ -1,0 +1,1 @@
+df["member_type"].value_counts(normalize=True)
