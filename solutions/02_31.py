@@ -1,0 +1,1 @@
+df_4.groupby("days_overdue").median(numeric_only=True)

@@ -1,0 +1,1 @@
+df["isbn"].isnull().sum()

@@ -1,0 +1,1 @@
+df.loc[[132, 7, 0], ['checkout_date', 'return_date']]
